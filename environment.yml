@@ -16,3 +16,4 @@ dependencies:
   - ipywidgets
   - pillow
   - python=3.6
+  - Image
